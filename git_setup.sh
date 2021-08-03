@@ -8,4 +8,4 @@ ssh-keygen -t rsa -b 4096 -f /home/$USER/.ssh/github
 # 	PreferredAuthentications publickey
 # 	IdentityFile /home/$USER/.ssh/github" >> /home/$USER/.ssh/config
 
-echo "remember to copy the content of /home/$USER/.ssh/github.pub when to your github profile!"
+echo "remember to copy the content of /home/$USER/.ssh/github.pub to your github profile!"
